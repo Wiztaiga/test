@@ -1,0 +1,23 @@
+
+li {
+  display: inline;
+  width: 200px;
+  height: 200px;
+  }
+  
+
+  a{
+    text-decoration-color: rgb(255, 255, 255);
+    font-size: 30px;
+  }
+
+  body {
+    font-family: 'Merienda', cursive;
+  }
+
+  p{
+    width: 769px;
+  }
+  
+
+  
